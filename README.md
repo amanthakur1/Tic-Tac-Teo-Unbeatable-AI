@@ -5,8 +5,9 @@ It's a Tic-Tac-Toe Game powered with Mini-Max Algorithm.
 Go, Play & Try to beat the AI 👍. [Play here](https://tic-tac-toe-unbeatable-ai.vercel.app/)
 
 ## Created By:
-- [Aman Gupta](https://github.com/Amz42) (Myself)
-- [Aman Chauhan](https://github.com/amanthakur1)
+- [Aman Chauhan](https://github.com/amanthakur1) (Myself)
+- [Aman Gupta](https://github.com/Amz42) 
+
 
 ### Game ScreenShot:
 ![](https://res.cloudinary.com/amz42/image/upload/v1609960238/personal/Screenshot_827_axbzjt.png)
